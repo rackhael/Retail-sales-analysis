@@ -4,11 +4,11 @@
 This project analyzes transactional data from an online retail store to uncover sales trends, identify best-selling products, and provide actionable recommendations to optimize performance. Using Python and libraries like Pandas, Matplotlib, and Seaborn, the project demonstrates insights into customer behavior, sales trends, and business performance.
 
 ### Features
-Data Cleaning: Removed missing values, handled invalid entries, and ensured data consistency.
-Sales Trends Analysis: Identified peak sales months and days of the week.
-Top Products Analysis: Highlighted best-selling products and top-performing categories.
-Geographical Insights: Determined the most profitable countries for sales.
-Visualization: Created clear and engaging plots to communicate key insights.
+**Data Cleaning**: Removed missing values, handled invalid entries, and ensured data consistency.
+**Sales Trends Analysis**: Identified peak sales months and days of the week.
+**Top Products Analysis**: Highlighted best-selling products and top-performing categories.
+**Geographical Insights**: Determined the most profitable countries for sales.
+**Visualization**: Created clear and engaging plots to communicate key insights.
 
 ### Technologies Used
 Python
