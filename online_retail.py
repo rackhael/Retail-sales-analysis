@@ -3,9 +3,6 @@
 
 # ## Task 1: Load the Data
 
-# In[6]:
-
-
 # Importing necessary libraries
 
 # In[3]:
@@ -16,8 +13,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-
-# In[ ]:
 
 
 # Load the dataset
